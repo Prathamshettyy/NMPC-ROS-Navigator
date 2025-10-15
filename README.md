@@ -31,8 +31,7 @@ The NMPC can provide the poweful and effective performance among existing optima
 4. Install Ipopt
 5. Create your own catkin_ws and clone the repositories.
     ```
-    git clone https://github.com/Prathamshettyy/NMPC-ROS-Navigator
-.git 
+    git clone https://github.com/Prathamshettyy/NMPC-ROS-Navigator.git 
     ```
     - _(optional)_ If you already have the urdf model, you don't need to clone below  
       ```
