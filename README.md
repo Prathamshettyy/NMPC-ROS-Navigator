@@ -31,11 +31,11 @@ The NMPC can provide the poweful and effective performance among existing optima
 4. Install Ipopt
 5. Create your own catkin_ws and clone the repositories.
     ```
-    git clone https://github.com/Geonhee-LEE/mpc_ros.git 
+    git clone https://github.com/Prathamshettyy/mpc_ros.git 
     ```
     - _(optional)_ If you already have the urdf model, you don't need to clone below  
       ```
-      git clone https://github.com/CzJaewan/servingbot.git
+      git clone https://github.com/Prathamshettyy/servingbot.git
       ```
       
     > NOTE: you can also refer other models such as ackermann model, holonomic model.
